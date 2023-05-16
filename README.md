@@ -1,6 +1,6 @@
 # OOPForumSession9
 
-1a. In object-oriented programming, a class serves as a blueprint or template for objects. It outlines the characteristics and actions that objects of that class can possess. By creating instances of a class, we can add specific values for attributes and create individual objects with unique properties.
+1a. In object-oriented programming, A class serves as the blueprint or template for objects. It determines the characteristics and actions that the objects of that class can possess. By creating instances of a class, we can add specific values for attributes and create individual objects with unique properties.
 
 1b. The "Manager" and "Sales Personnel" classes can inherit from the "Office Staff" class, as they belong to the category of office staff. Similarly, the "Product" class can be utilized as a parent class, allowing various product types to derive from it.
 
@@ -18,6 +18,6 @@
 5000.00
 
 
-2h. To effectively manage data, the classes require an attribute that can keep track of relevant information. Additionally, it is crucial to implement a method that calculates the salary by aggregating all the sales made in a month and applying the necessary calculations to determine the appropriate salary amount.
+2h. To effectively manage the data, the classes require an attribute that can keep track of relevant information. Additionally, it is crucial to implement a method that calculates the salary by aggregating all the sales made in a month and applying the necessary calculations to determine the appropriate salary amount.
 
 2i. Polymorphism is demonstrated in the SalesPerson class through the utilization of method overloading in the implementation of two constructors.
